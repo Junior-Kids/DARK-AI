@@ -33,7 +33,7 @@ When reporting a vulnerability, include:
 
 Please avoid publicly disclosing exploitable vulnerabilities before the issue has been reviewed and addressed.
 
-Contact: [YOUR SECURITY CONTACT OR GITHUB PROFILE]
+Contact: https://github.com/Junior-Kids
 
 ---
 
