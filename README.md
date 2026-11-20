@@ -84,14 +84,14 @@ Setelah aplikasi berjalan, masukkan perintah melalui prompt `└─❯`.
 
 ```
 DarkAI/
-├── wormgpt.py      # Entry point aplikasi
-├── main.py         # Core logic (Class Promt, CLI loop)
-├── config.py       # Konfigurasi dan pengaturan default
-├── prompt.py       # System prompt dan persona John Wick
-├── api.py          # API request handler (POST JSON)
-├── utils.py        # Formatter, parser, dan syntax checker
-├── dashboard.py    # TUI, Live Info, dan Outline Tracker
-└── terminal.py     # Input handler dan keyboard reader
+
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── install.sh
+├── main.so
+└── run.py
+
 ```
 
 ---
