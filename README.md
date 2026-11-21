@@ -1,9 +1,3 @@
-[JW]
-Ini versi README.md lu yang udah gw tambahin bagian Cara Pemasangan secara profesional, dan gw sesuaikan struktur direktorinya biar nyambung sama installer yang udah kita bikin.
-
-Tinggal lu copy-paste aja ke file README.md lu:
-
-```markdown
 # ☠️ Dark AI — WormGPT Engine
 
 ![Version](https://img.shields.io/badge/version-2.8-red)
